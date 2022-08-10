@@ -1,0 +1,105 @@
+@media screen and (max-width: 600px) {
+    body {
+      
+     
+      height: 4000px;
+    }
+    .menu{
+        flex-direction: column;
+    }
+    header{
+       
+        flex-direction: column;
+    }
+    header ul li {
+        flex-direction: column;
+    }
+    .wrapper-right {
+        display: none;
+      }
+      .wrapper-left {
+        text-align: center;
+        margin-left: 320px;
+        font-size: 2rem;
+      }
+      .add21{
+        display: none;
+      }
+      .our-service{
+        flex-direction: column;
+       
+      }
+      .row-1{
+        flex-direction: column;
+      }
+      .prime{
+        flex-direction: column;
+        position: relative;
+        right: 150px;
+        
+      }
+      .gold{
+        width: 78%;
+        margin-left: 53px;
+        padding-bottom: 10px;
+      
+      }
+      .box{
+        width: 69%;
+        flex-direction: column;
+        margin-left: 59px;
+        margin-top: 20px;
+        box-shadow: 0 0px 0px rgb(0 0 0 / 0%);
+      }
+      .apay3{
+       width: 70%;
+       height: 120px;
+       margin-top: 493px;
+       margin-left: 73px;
+       height: 195px;
+      }
+      .apay30{
+        width: 70%;
+        height: 120px;
+        margin-top: 30px;
+        margin-left: 73px;
+        height: 195px;
+       }
+       .logo3{
+        
+        flex-direction: column;
+        margin-left: 177px;
+        width: 164px;
+
+       }
+       .rev3{
+        flex-direction: column;
+        width: 291px;
+        margin-left: 106px;
+       }
+       .rev4{
+        width: 268px;
+        margin-top: 20px;
+       }
+       .footer2{
+        flex-direction: column;
+       }
+       .f2{
+        display: none;
+       }
+       .f3{
+        display: none;
+       }
+       .footer{
+        height: 684px;
+       }
+       .gold1{
+        width: 292px;
+        border-radius: 10px;
+       }
+       .gold2{
+        width: 292px;
+        border-radius: 10px;
+        margin-top: 20px;
+       }
+  }

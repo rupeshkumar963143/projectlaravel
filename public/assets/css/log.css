@@ -1,0 +1,101 @@
+body{
+    
+    background-image: linear-gradient(to left, #F2F5F9, #D7E0EC );
+}
+.fullpage{
+    width: 100%;
+    height: 100%;
+}
+.w-100{
+    width: 100%;
+    margin: 2px;
+}
+.w-90{
+    width: 76%;
+    display: flex;
+    margin-top: 32px;
+    margin-left: 162px;
+    border: 5px solid #FFF9F9;
+    border-radius: 40px;
+    padding-bottom: 120px;
+    border-bottom: hidden;
+
+}
+.w-45{
+    width: 35%;
+    margin: 11px;
+}
+.part2{
+    height: 300px;
+   margin-top: 90px;
+}
+.headertext{
+    font-size: 29px;
+    font-weight: bold;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #2192FE;
+}
+.text{
+    text-align: center;
+    font-size: 23px;
+    letter-spacing: 1px;
+    color: #344767;
+    margin-left: 10px;
+    width: 370px;
+    font-family: Open Sans;
+}
+input[type=text]:focus {
+    border: 3px solid red;
+  }
+  .recovery{
+      width: 127px;
+    padding-top: 12px;
+    margin-left: 293px;
+    color: #2191FE;
+    font-size: 16px;
+    padding-bottom: 17px;
+  }
+  .contn{
+    text-align: center;
+    padding-top: 34px;
+    margin-left: 95px;
+    color: grey;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: inherit;
+  }
+  .applelogo{
+      width: 100%;
+      
+      margin-left: 200px;
+    padding-top: 30px;
+  }
+  .line{
+      width: 100%;
+      padding: 20px;
+      background-color: #FFF9F9;
+  }
+  button{
+      cursor: pointer;
+      box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease 0s;
+  }
+ button:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(229, 128, 46, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  button:focus{
+    box-shadow:0 0 20px rgba(81, 203, 238, 1);
+    border: 1px solid rgba(81, 203, 238, 1);
+  }
+  .box input{
+    width: 427px;
+    padding-left: 12px;
+    height: 38px;
+    border: 1px solid #b5aaaa;
+    border-radius: 7px;
+    background-color: #E8F0FE;
+  }
